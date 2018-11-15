@@ -6,4 +6,7 @@
 ## 模型二示意图如下：
 ![基于加权平均法的集成学习模型](https://github.com/CuiNing6/2018-xinwang/blob/master/img/method2.PNG)
 
-先写这么多，后续再添加内容。
+先写这么多，后续再添加内容。  
+欢迎各位大佬批评指正，  
+如果发现错误，请及时与我联系
+邮箱：ning_cui@foxmail.com
