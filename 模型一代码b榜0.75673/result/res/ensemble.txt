@@ -1,0 +1,10 @@
+xgb_all_feature       Submission      0.74577
+lgb_all_feature_cv    Submission4     0.74
+gbdt_all_feature      Submission9     0.73
+nn_all_feature        Submission11    0.70
+xgb_corr_feature      Submission12    0.70
+
+Submission*0.5 + Submission4*0.5 = sub_0_4 = 0.7463
+sub_0_4*0.7 + Submission9*0.3 = sub_0_4_9 = 0.74651
+sub_0_4_9*0.7 + Submission11*0.3 = sub_0_4_9_11 = 0.74757
+sub_0_4_9_11*0.7 + Submission12*0.3 = sub_0_4_9_11_12 = 0.75152
