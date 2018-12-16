@@ -9,4 +9,4 @@
 ## 基于加权平均法的半监督集成学习模型示意图：
 ![基于加权平均法的集成学习模型](https://github.com/CuiNing6/2018-xinwang/blob/master/img/method2.PNG)
 # 代码说明：  
-
+\dot 模型一
